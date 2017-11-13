@@ -1,0 +1,54 @@
+@import "./components/action.css";
+@import "./components/addOption.css";
+@import "./components/header.css";
+@import "./components/modal.css";
+@import "./components/option.css";
+@import "./components/widget.css";
+
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.6rem;
+    background-color: #333745;
+}
+
+button {
+    cursor: pointer;
+    border-radius: 0;
+}
+
+span {
+    text-transform: capitalize;
+}
+/*.App {
+  text-align: center;
+  color: black;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px; }
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white; }
+
+.App-title {
+  font-size: 1.5em; }
+
+.App-intro {
+  font-size: large; }
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg); }
+  to {
+    transform: rotate(360deg); } }*/
+
+/*# sourceMappingURL=App.css.map */

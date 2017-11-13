@@ -1,0 +1,31 @@
+.header {
+    background-color: #20222b;
+    color: white;
+    margin-bottom: 1.6rem;
+    padding: 1.6rem 0;
+}
+
+.header h1 {
+    font-size: 3.2rem;
+    margin: 0;
+}
+
+.header h2 {
+    color: #a5afd7;
+    font-size: 1.6rem;
+    font-weight: 500;
+    margin: 0;
+}
+
+.container {
+    max-width: 60rem;
+    margin: 0 auto;
+    padding: 0 1.6rem;
+}
+
+
+@media (min-width: 45rem) {
+    .header {
+        margin-bottom: 4.8rem;
+    }
+}
